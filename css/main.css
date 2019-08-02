@@ -1,6 +1,7 @@
 body{
     width: 80%;
     margin: auto;
+    padding: 0 15%;
 }
 #hname{
     text-align : center;
@@ -44,4 +45,13 @@ td{
 
 address{
     font-size : 20px;
+}
+
+label{
+    float: left;
+    width: 100px;
+}
+
+.row{
+    text-align: center;
 }
